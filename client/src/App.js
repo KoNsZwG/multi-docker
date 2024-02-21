@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React and Test AWS
+            Fib Calculator
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
